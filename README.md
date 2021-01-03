@@ -1,1 +1,1 @@
-A bunch of javascripting fundamentals
+A bunch of javascripting fundamentals to know
